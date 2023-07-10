@@ -167,6 +167,9 @@
     <ProjectReference Include="..\..\Engine\Core\Core.vcxproj">
       <Project>{03c985af-f720-499a-b57a-6f81d51c2715}</Project>
     </ProjectReference>
+    <ProjectReference Include="..\..\Engine\Input\Input.vcxproj">
+      <Project>{0c4f8763-7376-48fc-b5c5-ec51ef2cc827}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\..\Engine\Renderer\Renderer.vcxproj">
       <Project>{aabea92b-84f7-4190-8b04-97d2514e7588}</Project>
     </ProjectReference>
